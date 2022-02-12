@@ -1,3 +1,4 @@
-.new {
-  background-color: orange;
+.new__style {
+  background-color: black;
+  display: flex;
 }
